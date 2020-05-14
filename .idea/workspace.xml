@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31c8b87a-a9a7-4c7e-8c75-09f156c0e1cc" name="Default Changelist" comment="추가">
+    <list default="true" id="31c8b87a-a9a7-4c7e-8c75-09f156c0e1cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/youtube/CommunitySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/youtube/CommunitySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/youtube/CommunitySystemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/youtube/CommunitySystemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/youtube/DeletedChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/youtube/DeletedChannel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/youtube/PolicyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/youtube/PolicyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube/CommunitySystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/youtube/CommunitySystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube/DeletedChannel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/youtube/DeletedChannel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/youtube/PolicyHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/youtube/PolicyHandler.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589436158346</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="추가">
+      <created>1589436722779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589436722779</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -78,10 +92,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589433884360" />
-    <state x="374" y="6" key="CommitChangelistDialog2" timestamp="1589436163838">
+    <state x="374" y="6" key="CommitChangelistDialog2" timestamp="1589436721521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="374" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589436163838" />
+    <state x="374" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589436721521" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1589436188002">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -90,22 +104,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589432477621" />
-    <state width="1493" height="400" key="GridCell.Tab.0.bottom" timestamp="1589435847874">
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom" timestamp="1589439443807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="400" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589435847874" />
-    <state width="1493" height="400" key="GridCell.Tab.0.center" timestamp="1589435847874">
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589439443807" />
+    <state width="1493" height="269" key="GridCell.Tab.0.center" timestamp="1589439443807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="400" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589435847874" />
-    <state width="1493" height="400" key="GridCell.Tab.0.left" timestamp="1589435847874">
+    <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589439443807" />
+    <state width="1493" height="269" key="GridCell.Tab.0.left" timestamp="1589439443806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="400" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589435847874" />
-    <state width="1493" height="400" key="GridCell.Tab.0.right" timestamp="1589435847874">
+    <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589439443806" />
+    <state width="1493" height="269" key="GridCell.Tab.0.right" timestamp="1589439443807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="400" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589435847874" />
+    <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589439443807" />
     <state x="277" y="54" key="SettingsEditor" timestamp="1589436010300">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

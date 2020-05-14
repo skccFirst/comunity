@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 public class DeletedChannel extends AbstractEvent {
 
     private String channelName;
-    private String channelId;
+    private Long channelId;
     private String clientId;
     private String videoId;
 
@@ -21,11 +21,11 @@ public class DeletedChannel extends AbstractEvent {
     public void setChannelName(String channelName) {
         this.channelName = channelName;
     }
-    public String getChannelId() {
+    public Long getChannelId() {
         return channelId;
     }
 
-    public void setChannelId(String channelId) {
+    public void setChannelId(Long channelId) {
         this.channelId = channelId;
     }
     public String getClientId() {

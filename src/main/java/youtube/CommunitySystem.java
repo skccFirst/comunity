@@ -13,13 +13,14 @@ public class CommunitySystem {
     private Long id;
     private Long commentId;
     private String comment;
-    private Long comunityId;
+    private String comunityId;
 
-    public Long getComunityId() {
+
+    public String getComunityId() {
         return comunityId;
     }
 
-    public void setComunityId(Long comunityId) {
+    public void setComunityId(String comunityId) {
         this.comunityId = comunityId;
     }
 
